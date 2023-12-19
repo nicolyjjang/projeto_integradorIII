@@ -58,7 +58,7 @@ Quando o login é feito com sucesso, suas respectivas páginas de acesso serão 
 
 Para melhor abstração e visualização dos Protótipos que foram desenvolvidos no FIGMA:
 
-[Clique aqui para acessar (requer cadastro no FIGMA)] [https://www.figma.com/file/9Rn806NRZLZTDf87o9kUzZ/Interface-UniversidadeG5?type=design&node-id=0%3A1&mode=design&t=Ljxg2lZuBqHbioCz-1]
+[Clique aqui para acessar (requer cadastro no FIGMA)] (https://www.figma.com/file/9Rn806NRZLZTDf87o9kUzZ/Interface-UniversidadeG5?type=design&node-id=0%3A1&mode=design&t=Ljxg2lZuBqHbioCz-1)
 
 ## Integrantes do Projeto ##
 
