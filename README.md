@@ -1,20 +1,20 @@
-# Sistema WEB de Cadastro da Universidade G5
+# Sistema WEB da Universidade G5
 Projeto Integrador III do Grupo 5 de TADS - Senac 2023
 
 # Início
 Esse projeto tem como objetivo prototipar como seria um sistema simples com interface atrativa para cadastrar e fornecer acesso as entidades da universidade.
 
-# As entidades
+# Entidades
 Como exigido, o projeto é dividido em 5 partes:
 - Pessoa Física
-- Pessoa Juridica
+- Pessoa Jurídica
 - Aluno
 - Professor
 - Fornecedor
 
 ## Observação sobre as partes acima! ##
 
-Aluno e Professor possuem as mesmas informações de cadastro de uma pessoa física, enquanto Professor (quando não trabalha com CTPS assinada, mas sim usando seu cadastro de MEI) e Fornecedor possuem as mesmas informações de cadastro de uma pessoa jurídica. Então, temos uma relação de herança onde Aluno e Professor herdam de Pessoa Física, enquanto Professor e Fornecedor herdam de Pessoa Jurídica. O que diferenciará o Professor será o ID que ele irá fornecer, já que a máscara de um CPF é diferente de um CNPJ no cadastro. 
+_Aluno_ e _Professor_ possuem as mesmas informações de cadastro de uma **pessoa física**, enquanto _Professor_ (quando não trabalha com CTPS assinada, mas sim usando seu cadastro de MEI) e _Fornecedor_ possuem as mesmas informações de cadastro de uma **pessoa jurídica**. Então, temos uma relação de herança onde Aluno e Professor herdam de Pessoa Física, e Professor e Fornecedor herdam de Pessoa Jurídica. O que diferenciará o Professor será o ID que ele irá fornecer, já que a máscara de um CPF é diferente de um CNPJ no cadastro. 
 
 ## Diagrama do caso acima ##
 
